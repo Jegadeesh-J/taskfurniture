@@ -290,6 +290,13 @@ header .para2 {
     width: 90%;
     margin-top: 50px;
   }
+    .imagegallery{
+    flex-wrap: wrap;
+  }
+
+.imagethumbnail{
+    margin:10px;
+}
 
   header nav {
     flex-direction: column;
