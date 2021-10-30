@@ -291,7 +291,8 @@ header .para2 {
   .imagegallery{
     flex-wrap: wrap;
   }
-
+.mainimage img{
+margin-left: 5px;
 .imagethumbnail{
     margin:10px;
 }
