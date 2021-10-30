@@ -308,7 +308,8 @@ header .para2 {
     display: none;
   }
 
-  html {
+html,body{
+      overflow-x: hidden;
     margin-top: -50px;
     scroll-behavior: smooth;
   }
