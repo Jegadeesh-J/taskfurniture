@@ -336,7 +336,7 @@ html,body{
    z-index: 1;
     background-color: #25B8D4;
     width: 100%;
-   padding-bottom: 200px;
+     height: 100vh;
    left: 0; 
    transition: 1s ease-in-out;
   }
