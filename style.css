@@ -334,7 +334,7 @@ header .para2 {
    z-index: 1;
     background-color: #25B8D4;
     width: 100%;
-   height: 110vh;
+   height: 100vh;
    left: 0; 
    transition: 1s ease-in-out;
   }
@@ -373,6 +373,12 @@ header .para2 {
   }
   .nav2 a{
     border: 1px solid white;
+  }
+  .hero{
+      padding-top: 50px;
+  }
+  #navigation h1{
+      display: none;
   }
 }
 .mobhead {
