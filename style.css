@@ -147,7 +147,7 @@ input[type="radio"] {
 .hero {
   height: 100vh;
   width: 100vw;
-  background: url(Vector\ 1.png) no-repeat;
+   background: url(bgVector1.png) no-repeat;
   background-size: cover;
   background-position: center;
   color: white;
